@@ -3,7 +3,7 @@
 Milton
 
 ## Responses to Readings
-1 [Blumenstock question] (blumenstock.md) 
+1 [Blumenstock question] () (Jan.28)
 ## Projects
 1 
 ## Other
