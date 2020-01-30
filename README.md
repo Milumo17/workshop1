@@ -3,7 +3,7 @@
 Milton
 
 ## Responses to Readings
-1 [Blumenstock question](https://milumo17.github.io/blumenstock.md/)(Jan.30 Revised)
+1 [Blumenstock question](https://github.com/Milumo17/workshop1/blob/master/blumenstock.md)(Jan.30 Revised)
 
 2 [Perkel question](https://github.com/Milumo17/workshop1/blob/master/Perkel.md) (Jan.30)
 
