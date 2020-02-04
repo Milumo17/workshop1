@@ -7,6 +7,8 @@ Milton
 
 2 [Perkel question](https://github.com/Milumo17/workshop1/blob/master/Perkel.md) (Jan.30)
 
+3 [Jahan and Rosling Question](https://Milumo17/github.com/workshop1/JahanRosling.md) (Feb. 4)
+
 ## Assignments 
 
 1 Annotated Bibliography
