@@ -9,6 +9,8 @@ Milton
 
 3 [Jahan and Rosling Question](https://milumo17.github.io/workshop1/JahanRosling) (Feb. 4)
 
+4 [Amartya Sen Question](https://milumo17.github.io/workshop1/AmartyaSen)(Feb. 11)
+
 ## Assignments 
 
 1 Annotated Bibliography
