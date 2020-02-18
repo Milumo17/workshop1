@@ -11,6 +11,8 @@ Milton
 
 4 [Amartya Sen Question](https://milumo17.github.io/workshop1/AmartyaSen)(Feb. 11)
 
+5 [Note Card Response]()(Feb. 18)
+
 ## Assignments 
 
 1 Annotated Bibliography
