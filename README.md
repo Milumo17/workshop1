@@ -13,6 +13,8 @@ Milton
 
 5 [Note Card Response](https://github.com/Milumo17/workshop1/blob/master/NoteCard.md)(Feb. 18)
 
+6 [Assignment 1](https://milumo17.github.io/workshop1/Assignment_1) (Feb. 23)
+
 ## Assignments 
 
 1 Annotated Bibliography
