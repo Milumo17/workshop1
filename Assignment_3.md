@@ -8,13 +8,13 @@ Since the 1950s the population of the Philippines has increased by over 80 milli
 
 ## Methods
 	
-### Digital Elevation Models 
+## Digital Elevation Models 
 	Digital elevation models are created from a conglomeration of other datasets to produce accurate geographical models incorporating terrain, depth and consistency. Often these models have two versions, a DTM that is considered the bare earth model and the DSM, which considers vegetation and buildings in the mapping(8). The main focus for this inquiry will be DTM for the purpose of understanding at risk areas of flooding as well. When paired with DSM this can be very effective at understanding at risk locations with buildings and populations. This can play into future urban planning and understanding as well to acknowledge certain areas near cities as inhospitable for informal settlements to form as well. In this particular DEM a new base data set is being evaluated and compared to an older base data set to see if the newer one will provide a more accurate picture for global mapping. With the advancement of more accurate DEM’s monitoring, constantly changing coastlines will become easier and more efficient and not require constant validating of the data. The changes in coastlines in the coming years requires a more robust and reliable system which can allow for effective urban planning in the future. The importance of the DTM becomes evident in a model produced by 
 
 
-### Population Projections and Geographic Information Systems
+## Population Projections and Geographic Information Systems
 	The population projections for a nation have alway been pivotal in understanding the nation's ability to develop in different aspects of functionality. These projections are calculated through estimating improvements in: healthcare, food supply, potable water, amongst other covariates. Understanding one’s population projections allows for proper inclusive economic growth, urban planning and general sustainable development. Particularly in cities under development the importance in the sustainable growth of these environments is pivotal upon the way this data is utilized by the government. Are certain ethnicities ostracized within cities, relegated to the outskirts or living in informal settlements. In relation to the main question, are these informal settlements sustainable in the development of these cities or will other forms of affordable need to be supplied. Informal settlements being taken over to build new affordable housing lose their importance when the settlement and its dwellers choose to relocate their settlement instead of making use of the government sponsored developed housing. These new settlements may be under threat of new high tide lines, a very realistic threat. 
-	In regards to population projections there are varying degrees of detail. 
+	In regards to population projections there are varying degrees of detail. In its simplest form the methodology of 
 
                                         Pc,t = Pc,t−1 + Bc,t − Dc,t + Mc,t, 
 
