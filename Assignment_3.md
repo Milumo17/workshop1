@@ -21,10 +21,13 @@ Sea rise (Sr) is accounted for by the relative sea level rise (SLR) in year t(m)
 
 A very important facet of understanding the new SLR is the acknowledgement that there will be new potentially inundated areas (PIAs). This was accounted for by manipulating the DEM information. 
 
+![40808_2016_199_Fig1_HTML](https://user-images.githubusercontent.com/60228362/80095698-56d8d300-8536-11ea-89aa-5c6df2624d16.jpg)
 
 
 Fig 1. The DEM and its flow with added covariates acknowledging the danger of proximal water as well as what the flooding of an adjacent grid might mean for the newly adjacent to water grid. 
 The DEM flow allows for the data to be processed and produces four different outcomes in the same area dependant on the SLR whether it rises 1m,2m,3m, or 4m. This image was created by creating the potentially inundated models first and then overlay in the city of Richmond on top to provide a visual of the extent the flooding has on the community. 
+
+![40808_2016_199_Fig3_HTML](https://user-images.githubusercontent.com/60228362/80095704-59d3c380-8536-11ea-9f71-e3897b3fa4b8.jpg)
 
 Fig 2. Different Sea Level Rise and its impact on the region on a grid by grid basis. 
 1m SLR	B) 2m SLR	C) 3m SLR	D) 4m SLR
@@ -44,11 +47,19 @@ Pc,t = Pc,t−1 + Bc,t − Dc,t + Mc,t,
 
 This equation, known as the demographic balancing equation, accounts for P - the population, c - country, t - time period, B - births, D - deathes, and M - net international migration. The UN Population Division employs the cohort component method to project age and sex in future time periods. This requires further inputs; some of the inputs include projections of projections of future total fertility rates (TFR), sex ratio at birth, male and female life expectancies, along with a number of historical data. The historical is helpful in making predictions due to constantly running census being a costly and inefficient method of monitoring a population. With this predicted population there is a lot of room for uncertainty(9). To counter this issue the UN creates a high medium and low variant by adjusting certain inputs by one or two. Future values of TFR (bayesTFR) along with simulation of life expectancy trajectories (bayesLife) convert each trajectory into a future trajectory of all sex - and age-specific populations. Combined with the R package (a collection of functions and data sets)  from bayesDem probabilistic projectiosn of the TFR and life expectancy are produced from one single interface. 
 
+
+![fig 3](https://user-images.githubusercontent.com/60228362/80095559-1f6a2680-8536-11ea-9446-0d63088b2323.jpg)
+
 Fig 3. How the bayesDem accounts for the prior discussed bayes methods and syncing them
 
+![fig 4](https://user-images.githubusercontent.com/60228362/80095566-23964400-8536-11ea-83fb-28401abe8c1e.jpg)
 
 Fig 4. The corresponding file size coincides with the number of trajectories, in this instance around 100. 
 An exmple (netherlands) 
+
+
+![fig 5](https://user-images.githubusercontent.com/60228362/80095586-2db84280-8536-11ea-8963-2b0853a2c6b4.jpg)
+
 Fig 5. Example of the predictions the worldPop provides with top and bottom predictions and everything in between.
 
 The world population prospects acknowledge direction by that government policies carry heavy responsibility in incorporating this form of data early. Accounting for rising tides is one major impact tht the future will have world wide but infrastructure improvement to handle such an immense issue requires government intervention now. Particularly when the largest growing population group is the 65 and older demographic with improving health services worldwide. This particular demographic requires a stable living environment because rapid response to natural disasters particularly from an informal settlement does not bode well for the survivability of this demographic evidenced in the employment of Agent Based models.
@@ -59,6 +70,7 @@ The world population prospects acknowledge direction by that government policies
 Agent based models are employed to understand a certain population's reaction to certain stimuli. In this particular issue response to flooding and tsunami are important when considering where coastal lines might be at the end of the century. This type of model supplies the individuals in the particular environment with autonomous behaviors based on likelihood of certain actions occurring. The reliability of these models leans on the data inputted into the model. Parameters are required to be set up (acknowledging interactions between agents), then environment (island, city, and terrain), and certain infrastructures or information that may be known beforehand (i.e. safe locations or high ground or evacuation zones). The value of this particular type of model appears when understanding the case at hand. For example Manila in the year 2100 faces a plethora of variables: what new urban development plants may be input (new buildings and informal settlements), new ethnic people relocated into the city from islands now below high tide lines potentially ostracized and living in seperate informal settlements due to lack of faith in the governments promises of affordable housing. All these different variables and more  can be accounted for by adjusting the inputs in the model. By the year 2100 certain ehtnic divides may not be as prominent, perhaps the strain of such close proximity of these ethnicities has built up animosity. The heterogeneity is the true strength of such a model although each new environment model will require major data development since it will be figmented. Governments employing this model may find certain responses as undesirable and could employ early policies to prevent such issues from arising. 
 
 
+![fig 6](https://user-images.githubusercontent.com/60228362/80095591-2ee96f80-8536-11ea-9ebf-697b7f248c67.jpg)
 
 In the case of Barrio Barretto an agent based model was employed to evaluate whether an area with potential of being impacted by Tsunami but had yet to be hit by one might react in the face of a Tsunami(4). This particular model employed data on the buildings, shelters, inundated areas,and also the slopes of roads (GIS maps). Capacity of shelters and shortest evacuation paths were important factors included. For the agents, speed and age were the physical attributes monitored. When maximum capacity was reached in shelters agents were forced to find the next closest shelter. The final outcome was an estimated 20% survival rate. This leads to a general understanding that 80% of the population of the city were incapable of reaching a safe point on time(4). 
 
