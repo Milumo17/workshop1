@@ -17,9 +17,9 @@ Milton
 
 7.[Assignment 2](https://milumo17.github.io/workshop1/Assignment_2) (April 5)\
 
-8.[Assignment 3](https://milumo17/github.io/workshop1/Assignment_3) (April 20)
+8.[Assignment 3](https://milumo17/github.io/workshop1/Assignment_3) (April 20)\
 
-9.[City of God](https://milumo17/github.io/workshop1/In_class_essay2) (April 23)
+9.[City of God](https://milumo17/github.io/workshop1/In_class_essay2) (April 23)\
 
 
 ## Assignments 
