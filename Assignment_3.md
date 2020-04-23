@@ -117,4 +117,4 @@ Population Studies”(2014), DOI: 10.1080/17441730.2014.902163
 
 11) Hammond, Ross A. “Considerations and Best Practices in Agent-Based Modeling to Inform Policy.” Assessing the Use of Agent-Based Models for Tobacco Regulation., U.S. National Library of Medicine, 17 July 2015, www.ncbi.nlm.nih.gov/books/NBK305917/.
 
-12) Al-Jeneid, S., et al. “Geospatial Modeling of the Impact of Sea Level Rise on Coastal Communities: Application of Richmond, British Columbia, Canada.” Modeling Earth Systems and Environment, Springer International Publishing, 1 Jan. 1970, link.springer.com/article/10.1007/s40808-016-0199-2.
+12) Al-Jeneid, S., et al. “Geospatial Modeling of the Impact of Sea Level Rise on Coastal Communities: Application of Richmond, British Columbia, Canada.” Modeling Earth Systems and Environment, Springer International Publishing, 1 Jan. 1970, link.springer.com/article/10.1007/s40808-016-0199-2. 
