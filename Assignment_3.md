@@ -89,3 +89,32 @@ Finally, the agent based mode supplies a simulation of instances that otherwise 
 The utility of all these models combined exponentially improves the final product. With the initial base of digital elevation models one can easily create a base from which to build predictive models. In response to multiple inundated regions that are predicted to occur in the future the model has proven suitable to supply a range of assets available for testing. Using these different DEMs one can begin to predict how projected populations in 20 years may alter as these regions are forced to adjust to new tide lines. Ultimately in time cities will meet drastic changes. Whether these changes come directly from coast lines encroaching on city limits or if the coastlines indirectly force smaller communities to cohabitate in the same environment. In larger cities where informal settlements are common, “foreign” communities may be more welcome than cities without. These demographic ambiguities can be simulated by adjusting bayesPop models. Inputting a larger population into certain cities with different ethnicities, health, and heritage may drastically adjust averages in these locations. The risk of such large movements to these cities lie in the fact that informal settlements often fall on undesirable lands, suggesting the value or worth of the land is minimal. This may be due to the prone flooding that occurs and if this issue occurs now, one can only imagine the devastation that would occur in time as more people begin settling as rising sea levels begin to cause worse flooding, harsher storm seasons etc. The future of these cities lie in the urban planning done now. 
 
 Using agent models on the predicted DEMs and projected populations one can simulate a response to tsunami or monsoon with the current state of buildings with projected population numbers. Of course this will show a major failure and ineptitude of keeping the population safe. The ultimate purpose of this model is to tweak the variables and see where people appear to funnel. Which shelters are most sought after, what regions have the most elderly, do the new inhabitants of the city choose to ignore government advice out of resentment and flee the city in hope of simply finding higher ground or slopes. From these different variables governments globally can begin enacting policy shelter development. Programs that incentivise moving to the city in new affordable housing to prevent reluctance of inhabitants seen in the island Ubay where people choose to live on an island flooded half the time because they trust their way of life more than the one the government hopes to give them. This shows weakness in current policies and should be a wake up call for governments to make the change as opposed to paying the price later with the lives of their citizens.
+
+## Resources
+
+1) Kulp, Scott A., and Benjamin H. Strauss. “New Elevation Data Triple Estimates of Global Vulnerability to Sea-Level Rise and Coastal Flooding.” Nature Communications, vol. 10, no. 1, 29 Dec. 2019, doi:10.1038/s41467-019-12808-z.
+
+2) “Parts of Philippines May Submerge Due to Global Warming.” ScienceDaily, ScienceDaily, 6 June 2016, www.sciencedaily.com/releases/2016/06/160606101406.htm.
+
+3)“Parts of Philippines May Submerge Due to Global Warming.” ScienceDaily, ScienceDaily, 6 June 2016, www.sciencedaily.com/releases/2016/06/160606101406.htm.
+
+4) Rozmarynowska, Olga, et al. “How Climate Change Is Going to Affect the Agricultural and Fishing Industries of the Philippines.” Student Environmental Resource Center, 25 Sept. 2019, serc.berkeley.edu/how-climate-change-is-going-to-affect-the-agricultural-and-fishing-industries-of-the-philippines/.
+
+5) Tsunami Evacuation Modeling Using an Agent-Based Simulation: A Case of Barrio Barretto, the Philippines
+
+6) Hana Ševcíková and Adrian E. Raftery. “BayesPop: Probabilistic Population 
+Projections.” Journal of Statistical Software, vol. 75, no. 5, 6 Dec. 2016, 
+doi:10.18637/jss.v075.i05
+
+7) Arnisson Andre C. Ortega. “Mapping Manila's mega-urban region, Asian 
+Population Studies”(2014), DOI: 10.1080/17441730.2014.902163
+
+8) Doherty, Ben. “Enduring the Tide: the Flooded Philippine Islands That Locals Won't Leave.” The Guardian, Guardian News and Media, 1 Feb. 2019, www.theguardian.com/world/2019/feb/01/enduring-the-tide-the-flooded-philippine-islands-that-locals-wont-leave.
+
+9) Courty, Laurent Guillaume, et al. “Evaluation of Open‐Access Global Digital Elevation Models (AW3D30, SRTM, and ASTER) for Flood Modelling Purposes.” Wiley Online Library, John Wiley & Sons, Ltd, 13 June 2019, onlinelibrary.wiley.com/doi/full/10.1111/jfr3.12550.
+
+10) Ševčíková, Hana, and Adrian E Raftery. “BayesPop: Probabilistic Population Projections.” Journal of Statistical Software, U.S. National Library of Medicine, Dec. 2016, www.ncbi.nlm.nih.gov/pmc/articles/PMC5221849/.
+
+11) Hammond, Ross A. “Considerations and Best Practices in Agent-Based Modeling to Inform Policy.” Assessing the Use of Agent-Based Models for Tobacco Regulation., U.S. National Library of Medicine, 17 July 2015, www.ncbi.nlm.nih.gov/books/NBK305917/.
+
+12) Al-Jeneid, S., et al. “Geospatial Modeling of the Impact of Sea Level Rise on Coastal Communities: Application of Richmond, British Columbia, Canada.” Modeling Earth Systems and Environment, Springer International Publishing, 1 Jan. 1970, link.springer.com/article/10.1007/s40808-016-0199-2.
